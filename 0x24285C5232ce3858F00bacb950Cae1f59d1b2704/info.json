@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "b9a4e502-8bb9-40f2-9fa2-e3c3de05db44",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/oasis-tokenlist/master/0x24285C5232ce3858F00bacb950Cae1f59d1b2704/logo.png"
+  },
+  "name": "Tether USD (Portal from Solana)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "USDTso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

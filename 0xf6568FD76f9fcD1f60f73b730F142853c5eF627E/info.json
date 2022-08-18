@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "644a4de5-d22b-4eb7-96c5-90054702f38c",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xf6568FD76f9fcD1f60f73b730F142853c5eF627E",
+    "website": "https://www.paxos.com/busd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/oasis-tokenlist/master/0xf6568FD76f9fcD1f60f73b730F142853c5eF627E/logo.png"
+  },
+  "name": "Binance USD (Portal from BSC)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "BUSDbs",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
