@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xd79Ef9A91b56c690C7b80570a3c060678667f469",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "2cf48b9a-44c4-427e-bfe7-19ff6cd213b8",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xd79Ef9A91b56c690C7b80570a3c060678667f469",
+    "website": "https://www.binance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0xd79Ef9A91b56c690C7b80570a3c060678667f469/logo.png"
+  },
+  "name": "Binance Coin (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
