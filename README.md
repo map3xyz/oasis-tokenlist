@@ -1,15 +1,15 @@
 
-# oasis Tokenlist
+# Oasis Tokenlist
 
-This is the Map3 Tokenlist for the oasis network.
+This is the Map3 Tokenlist for the Oasis network.
 
-You can find the Map3 metadata for the oasis network on [The Main Assets Repo](https://github.com/map3xyz/assets/tree/master/networks/oasis).
+You can find the Map3 metadata for the Oasis network on [The Main Assets Repo](https://github.com/map3xyz/assets/tree/master/networks/oasis).
 
-This repository is added as a submodule to the main assets repository. You can find the link here: https://github.com/map3xyz/assets/tree/master/networks/oasis/assets/oasis-tokenlist).
+This repository is added as a submodule to the main assets repository. You can find the link here: https://github.com/map3xyz/assets/tree/master/networks/oasis/assets/oasis-tokenlist.
 
-## Reading Data
+## Reading Data
 
-Map3 makes it easy to access the data about assets on the oasis network. 
+Map3 makes it easy to access the data about assets on the Oasis network. 
 
 You can read the data by self-hosting our Web API or sign up for our [Free Hosted Version](https://map3.xyz).
 
@@ -24,5 +24,5 @@ Found an issue with the data present? Just open a pull request to fix it that me
 ## Code of Conduct
 You can find our [Code of Conduct here](https://github.com/map3xyz/assets/tree/master/docs/CODE_OF_CONDUCT.md).
 
-## License
+## License
 MIT. See [LICENSE](LICENSE)
