@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "99a9408b-3d7f-4178-b95c-184f8d173fe4",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD/logo.png"
+  },
+  "name": "USD Coin (Portal from Ethereum)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "USDCet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

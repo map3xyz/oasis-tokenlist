@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "6d03096f-67d8-4443-ab8c-bb624a7b287d",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+    "website": "https://terra.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823/logo.png"
+  },
+  "name": "LUNA (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
