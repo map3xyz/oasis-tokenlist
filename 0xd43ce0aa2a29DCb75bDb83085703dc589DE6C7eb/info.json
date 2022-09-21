@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "cc502192-c132-4969-81d6-0ec848b7d6d0",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+    "website": "https://www.wbtc.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/oasis/assets/0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb/logo.png"
+  },
+  "name": "Wrapped BTC (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "WBTC",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

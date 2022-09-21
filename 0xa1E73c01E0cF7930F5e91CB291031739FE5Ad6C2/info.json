@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "6563432f-c3aa-4354-be9b-e2c9be98e1e5",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+    "website": "https://terra.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/oasis/assets/0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2/logo.png"
+  },
+  "name": "UST (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "UST",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

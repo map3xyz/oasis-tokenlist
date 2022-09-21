@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "a7478a34-9e29-4b60-8284-dabf38c6c4fc",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/oasis/assets/0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e/logo.png"
+  },
+  "name": "USD Coin (Portal from BSC)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "USDCbs",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

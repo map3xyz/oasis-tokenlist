@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "6b61cb90-7b65-4e68-ada7-7045ecd0e159",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+    "website": "https://solana.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/oasis/assets/0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc/logo.png"
+  },
+  "name": "SOL (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

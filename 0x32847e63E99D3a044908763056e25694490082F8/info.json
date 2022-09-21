@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x32847e63E99D3a044908763056e25694490082F8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "eeb9534d-9bd0-4e1b-bbee-5c829a7725c4",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x32847e63E99D3a044908763056e25694490082F8",
+    "website": "https://www.avax.network/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/oasis/assets/0x32847e63E99D3a044908763056e25694490082F8/logo.png"
+  },
+  "name": "AVAX (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "AVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
