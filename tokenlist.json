@@ -1,0 +1,203 @@
+{
+  "name": "@Map3/oasis-tokenlist",
+  "timestamp": "2022-09-26T11:36:17.363Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x05832a0905E516f29344ADBa1c2052a788B10129",
+      "name": "Tether USD (Portal from Avalanche)",
+      "decimals": 6,
+      "symbol": "USDTav",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x05CbE6319Dcc937BdbDf0931466F4fFd0d392B47",
+      "name": "USD Coin (Portal from Avalanche)",
+      "decimals": 6,
+      "symbol": "USDCav",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x1d1149a53deB36F2836Ae7877c9176413aDfA4A8",
+      "name": "USD Coin (Portal from Solana)",
+      "decimals": 6,
+      "symbol": "USDCso",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x24285C5232ce3858F00bacb950Cae1f59d1b2704",
+      "name": "Tether USD (Portal from Solana)",
+      "decimals": 6,
+      "symbol": "USDTso",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+      "name": "Ether (Portal)",
+      "decimals": 18,
+      "symbol": "ETH",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x32847e63E99D3a044908763056e25694490082F8",
+      "name": "AVAX (Portal)",
+      "decimals": 18,
+      "symbol": "AVAX",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153",
+      "name": "Tether USD (Portal from BSC)",
+      "decimals": 18,
+      "symbol": "USDTbs",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241",
+      "name": "USD Coin (PoS) (Portal from Polygon)",
+      "decimals": 6,
+      "symbol": "USDCpo",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",
+      "name": "LUNA (Portal)",
+      "decimals": 6,
+      "symbol": "LUNA",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0x4cA2A3De42eabC8fd8b0AC46127E64DB08b9150e",
+      "name": "USD Coin (Portal from BSC)",
+      "decimals": 18,
+      "symbol": "USDCbs",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",
+      "name": "USD Coin (Portal from Ethereum)",
+      "decimals": 6,
+      "symbol": "USDCet",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3",
+      "name": "Tether USD (PoS) (Portal from Polygon)",
+      "decimals": 6,
+      "symbol": "USDTpo",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",
+      "name": "UST (Portal)",
+      "decimals": 6,
+      "symbol": "UST",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",
+      "name": "SOL (Portal)",
+      "decimals": 9,
+      "symbol": "SOL",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",
+      "name": "Wrapped BTC (Portal)",
+      "decimals": 8,
+      "symbol": "WBTC",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xd79Ef9A91b56c690C7b80570a3c060678667f469",
+      "name": "Binance Coin (Portal)",
+      "decimals": 18,
+      "symbol": "BNB",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
+      "name": "Tether USD (Portal from Ethereum)",
+      "decimals": 6,
+      "symbol": "USDTet",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
+      "address": "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E",
+      "name": "Binance USD (Portal from BSC)",
+      "decimals": 18,
+      "symbol": "BUSDbs",
+      "tags": [
+        "wrapped"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "90a191cc-fa7b-4740-a026-649a12b245e7",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0xFffD69E757d8220CEA60dc80B9Fe1a30b58c94F3/logo.png"
+  },
+  "name": "Tether USD (PoS) (Portal from Polygon)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "USDTpo",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

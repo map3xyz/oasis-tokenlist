@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "30eae814-29cb-4029-8c4d-a009325c5d8e",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153/logo.png"
+  },
+  "name": "Tether USD (Portal from BSC)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "USDTbs",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
