@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "b6380174-6333-4faa-98aa-60ebac974b58",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0x3E62a9c3aF8b810dE79645C4579acC8f0d06a241/logo.png"
+  },
+  "name": "USD Coin (PoS) (Portal from Polygon)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "USDCpo",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

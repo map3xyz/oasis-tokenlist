@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "4474e1fa-d526-424b-9a8f-57b7d537e5d0",
+  "links": {
+    "explorer": "https://explorer.oasis.updev.si/token/0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+    "website": "https://ethereum.org/en/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/oasis/assets/oasis-tokenlist/0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F/logo.png"
+  },
+  "name": "Ether (Portal)",
+  "networkCode": "oasis",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
