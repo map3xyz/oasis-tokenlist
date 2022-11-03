@@ -1,0 +1,15 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+    "fromNetwork": "oasis",
+    "toAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
+]
